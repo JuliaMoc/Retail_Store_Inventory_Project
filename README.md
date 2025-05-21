@@ -45,6 +45,9 @@ Pivot Tables & Interactive Dashboard (also in Excel)
 - Interactive Button: generates a Daily KPI Report (also available as PDF)
 - Dynamic Charts: all charts can be filtered by year and month
 
+  <img width="1305" alt="Dashboard" src="https://github.com/user-attachments/assets/18ba5cc8-7c60-4683-858e-15b1ad7f0cc3" />
+
+
 5️⃣ Automated Daily KPI Report (with Macros/VBA)
 - Filtered sales view by date & store
 - Aggregated sales by category (incl. % differences)
